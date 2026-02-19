@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="assets/banner.svg" width="1000">
+<img src="assets/banner_002.png" width="1000">
 <!--
 **TheProjectTaughtMe/TheProjectTaughtMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
